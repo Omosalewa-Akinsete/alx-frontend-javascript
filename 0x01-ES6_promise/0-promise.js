@@ -1,9 +1,3 @@
-function getResponseFromAPI() {
-  return new Promise((resolve, reject) => {
-    // Your API logic here
-    // Call resolve(data) if the API call is successful
-    // Call reject(error) if there is an error
-  });
+export default function getResponseFromAPI() {
+  return new Promise((resolve, reject) => [resolve, reject]);
 }
-
-module.exports = getResponseFromAPI;
