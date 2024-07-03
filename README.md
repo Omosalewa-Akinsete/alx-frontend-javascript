@@ -7,3 +7,5 @@ This directory contains projects on JavaScript, HTML and CSS
 3. 0x02. ES6 classes
 
 4. 0x03. ES6 data manipulation
+
+5. 0x04. Typescript
